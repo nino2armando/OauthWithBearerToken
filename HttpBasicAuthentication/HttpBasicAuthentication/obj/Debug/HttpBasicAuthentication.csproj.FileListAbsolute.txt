@@ -1,0 +1,17 @@
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\HttpBasicAuthentication\HttpBasicAuthentication\bin\Debug\HttpBasicAuthentication.exe.config
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\HttpBasicAuthentication\HttpBasicAuthentication\bin\Debug\HttpBasicAuthentication.exe
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\HttpBasicAuthentication\HttpBasicAuthentication\bin\Debug\HttpBasicAuthentication.pdb
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\HttpBasicAuthentication\HttpBasicAuthentication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\HttpBasicAuthentication\HttpBasicAuthentication\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\HttpBasicAuthentication\HttpBasicAuthentication\bin\Debug\Thinktecture.IdentityModel.dll
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\HttpBasicAuthentication\HttpBasicAuthentication\bin\Debug\System.Web.Http.dll
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\HttpBasicAuthentication\HttpBasicAuthentication\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\HttpBasicAuthentication\HttpBasicAuthentication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\HttpBasicAuthentication\HttpBasicAuthentication\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\HttpBasicAuthentication\HttpBasicAuthentication\bin\Debug\Thinktecture.IdentityModel.pdb
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\HttpBasicAuthentication\HttpBasicAuthentication\bin\Debug\Thinktecture.IdentityModel.xml
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\HttpBasicAuthentication\HttpBasicAuthentication\bin\Debug\System.Web.Http.xml
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\HttpBasicAuthentication\HttpBasicAuthentication\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\HttpBasicAuthentication\HttpBasicAuthentication\obj\Debug\HttpBasicAuthentication.csprojResolveAssemblyReference.cache
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\HttpBasicAuthentication\HttpBasicAuthentication\obj\Debug\HttpBasicAuthentication.exe
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\HttpBasicAuthentication\HttpBasicAuthentication\obj\Debug\HttpBasicAuthentication.pdb
