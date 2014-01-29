@@ -4,9 +4,9 @@ Example of a Code Grant flow
 
 ![ScreenShot](http://i2.asp.net/media/4320135/webapiwithoauth.png?cdn_id=2014-01-17-001)
 
-BasicHttpIdsrv: API Example 
+BasicHttpIdsrv: API example 
 
-HttpBasicAuthentication: client example
+HttpBasicAuthentication: Client example
 
 JWT decoder: https://py-jwt-decoder.appspot.com/
 
