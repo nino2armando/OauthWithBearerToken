@@ -16,7 +16,7 @@ namespace BasicHttpIdsrv.Security
             }
 
             incomingPrincipal.Identities.First().AddClaim(
-                new Claim("Admin", "Sanjuan1984"));
+                new Claim("Admin", "Verrus123"));
 
             return incomingPrincipal;
         }
